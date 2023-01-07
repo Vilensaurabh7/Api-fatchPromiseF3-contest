@@ -1,0 +1,82 @@
+html{
+    font-size: 100%;
+}
+.btr{
+    border: .25rem solid rgb(243, 4, 211);
+    padding: .32p;
+    margin-left: 18%;
+    margin-right: 15%;
+    text-align: center;
+    background-color: rgb(2, 2, 2);
+    color: white;
+    font-weight: bolder;
+   border-radius: .5rem;
+}
+.hr-style{
+    margin-left: .5rem;
+    margin-right: .19rem;
+    margin-top: 0;
+    border: 0;
+    height: 0.1rem;
+    background-image: linear-gradient(to right, rgb(248, 246, 246), rgb(240, 41, 108), rgb(67, 162, 252));
+}
+/* .hr-style{
+    width: 1500%;
+    margin-left: .5rem;
+    margin-right: .19rem;
+    margin-top: 0;
+    border: 0;
+    height: 0.1rem;
+    background-image: linear-gradient(to right, rgb(248, 246, 246), rgb(240, 41, 108), rgb(67, 162, 252));
+} */
+.btr1 td{
+    padding: .9rem;
+    
+}
+
+
+@media (Max-width:1150px){
+    html{
+    font-size: 90%;
+}
+/* .hr-style{
+    width: 1430%;
+    
+} */
+}
+@media (Max-width:950px){
+    html{
+    font-size: 90%;
+}
+/* .hr-style{
+    width: 1250%;
+    
+} */
+}
+@media (Max-width:750px){
+    html{
+    font-size: 80%;
+}
+/* .hr-style{
+    width: 1190%;
+    
+} */
+}
+@media (Max-width:550px){
+    html{
+    font-size: 70%;
+}
+/* .hr-style{
+    width: 1120%;
+    
+} */
+}
+@media (Max-width:350px){
+    html{
+    font-size: 60%;
+}
+/* .hr-style{
+    width: 1040%;
+    
+} */
+}
